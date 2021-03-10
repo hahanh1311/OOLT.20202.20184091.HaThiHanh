@@ -46,7 +46,7 @@ public class DayOfMonth {
 			year = sc.nextInt();
 
 		}
-		;
+		
 
 		switch (month) {
 		case 1:
